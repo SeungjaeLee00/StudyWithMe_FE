@@ -1,32 +1,25 @@
-# Study With Me
+# 📘 StudyWithMe - Frontend
 
-**온라인에서 실시간 스터디를 할 수 있는 웹 플랫폼**
-
-📚 온라인에서 스터디를 개설하고, 참여하고, 직접 운영할 수 있는 웹 기반 플랫폼입니다.
+StudyWithMe는 온라인에서 스터디를 개설하고 참여할 수 있는 웹 기반 플랫폼입니다. 이 레포는 프론트엔드(React + Vite + Tailwind CSS) 코드입니다.
 
 ---
 
-## 💡 주요 기능
+## 🚀 주요 기능
 
-- 스터디룸 생성 및 참여 신청
-- 스터디 리더 승인 시스템
-- 줌 연동 및 출석 체크
-- 스터디 게시판(공지, 자료 공유 등)
-- 마이페이지에서 나의 스터디 내역 확인
-
----
-
-## 🛠 기술 스택
-
-| Layer       | Stack                     |
-| ----------- | ------------------------- |
-| Frontend    | React, TailwindCSS, Axios |
-| Backend     | Spring Boot, JPA          |
-| Database    | MySQL                     |
-| Integration | Zoom API, JWT             |
+- 메인 페이지에서 스터디 카드 목록 표시
+- 스터디룸 생성 및 상세 정보 확인
+- 참여 신청 및 승인 확인
+- Zoom 링크 접속 및 출석 버튼
+- 스터디 게시판 (공지사항, 자료실)
+- 마이페이지 (내 스터디 목록, 출석 확인)
 
 ---
 
-## 📌 개발자
+## ⚙️ 기술 스택
 
-- Seungjae Lee
+- **React** (Vite 기반)
+- **Tailwind CSS** (UI 스타일링)
+- **Axios** (API 통신)
+- **React Router** (페이지 라우팅)
+- **Recoil / Zustand** (상태관리 도입 가능)
+- **Day.js** (날짜/시간 포맷)
