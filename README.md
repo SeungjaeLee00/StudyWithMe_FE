@@ -1,8 +1,8 @@
-# WebStudyHub
+# Study With Me
 
 **온라인에서 실시간 스터디를 할 수 있는 웹 플랫폼**
 
-📚 누구나 스터디방을 만들고, 줌으로 실시간 학습하고, 출석도 자동으로 관리할 수 있어요!
+📚 온라인에서 스터디를 개설하고, 참여하고, 직접 운영할 수 있는 웹 기반 플랫폼입니다.
 
 ---
 
@@ -24,3 +24,9 @@
 | Backend     | Spring Boot, JPA          |
 | Database    | MySQL                     |
 | Integration | Zoom API, JWT             |
+
+---
+
+## 📌 개발자
+
+- Seungjae Lee
